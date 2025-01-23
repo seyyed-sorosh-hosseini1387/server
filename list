@@ -1,5 +1,5 @@
 {
   "app_id": "d27a5960-bbe7-4fe5-83cf-4d4ea876f310",
   "ads": "e3cac380-7ac8-4060-8de6-6c0994d9a553",
-  "server": "https://api.codebazan.ir/mtproto/json/?type=ping&channel="
+  "server": "https://api.codebazan.ir/proxy/?type=mtproto"
 }
